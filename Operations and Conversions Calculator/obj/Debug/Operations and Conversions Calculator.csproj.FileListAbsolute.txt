@@ -1,0 +1,20 @@
+D:\FACULTATE\Anul 1\Logics\Optional Homework\Operations and Conversions Calculator\bin\Debug\Operations and Conversions Calculator.exe.config
+D:\FACULTATE\Anul 1\Logics\Optional Homework\Operations and Conversions Calculator\bin\Debug\Operations and Conversions Calculator.exe
+D:\FACULTATE\Anul 1\Logics\Optional Homework\Operations and Conversions Calculator\bin\Debug\Operations and Conversions Calculator.pdb
+D:\FACULTATE\Anul 1\Logics\Optional Homework\Operations and Conversions Calculator\obj\Debug\Operations and Conversions Calculator.csprojAssemblyReference.cache
+D:\FACULTATE\Anul 1\Logics\Optional Homework\Operations and Conversions Calculator\obj\Debug\Operations_and_Conversions_Calculator.Form1.resources
+D:\FACULTATE\Anul 1\Logics\Optional Homework\Operations and Conversions Calculator\obj\Debug\Operations_and_Conversions_Calculator.Properties.Resources.resources
+D:\FACULTATE\Anul 1\Logics\Optional Homework\Operations and Conversions Calculator\obj\Debug\Operations and Conversions Calculator.csproj.GenerateResource.cache
+D:\FACULTATE\Anul 1\Logics\Optional Homework\Operations and Conversions Calculator\obj\Debug\Operations and Conversions Calculator.csproj.CoreCompileInputs.cache
+D:\FACULTATE\Anul 1\Logics\Optional Homework\Operations and Conversions Calculator\obj\Debug\Operations and Conversions Calculator.exe
+D:\FACULTATE\Anul 1\Logics\Optional Homework\Operations and Conversions Calculator\obj\Debug\Operations and Conversions Calculator.pdb
+D:\FACULTATE\Anul 1\Logica\Optional Homework\Operations and Conversions Calculator\obj\Debug\Operations and Conversions Calculator.csprojAssemblyReference.cache
+D:\FACULTATE\Anul 1\Logica\Optional Homework\Operations and Conversions Calculator\obj\Debug\Operations_and_Conversions_Calculator.Form1.resources
+D:\FACULTATE\Anul 1\Logica\Optional Homework\Operations and Conversions Calculator\obj\Debug\Operations_and_Conversions_Calculator.Properties.Resources.resources
+D:\FACULTATE\Anul 1\Logica\Optional Homework\Operations and Conversions Calculator\obj\Debug\Operations and Conversions Calculator.csproj.GenerateResource.cache
+D:\FACULTATE\Anul 1\Logica\Optional Homework\Operations and Conversions Calculator\obj\Debug\Operations and Conversions Calculator.csproj.CoreCompileInputs.cache
+D:\FACULTATE\Anul 1\Logica\Optional Homework\Operations and Conversions Calculator\obj\Debug\Operations and Conversions Calculator.exe
+D:\FACULTATE\Anul 1\Logica\Optional Homework\Operations and Conversions Calculator\obj\Debug\Operations and Conversions Calculator.pdb
+D:\FACULTATE\Anul 1\Logica\Optional Homework\Operations and Conversions Calculator\bin\Debug\Operations and Conversions Calculator.exe.config
+D:\FACULTATE\Anul 1\Logica\Optional Homework\Operations and Conversions Calculator\bin\Debug\Operations and Conversions Calculator.exe
+D:\FACULTATE\Anul 1\Logica\Optional Homework\Operations and Conversions Calculator\bin\Debug\Operations and Conversions Calculator.pdb
