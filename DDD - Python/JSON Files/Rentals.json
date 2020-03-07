@@ -1,0 +1,20 @@
+{
+  "rentals": [
+    {
+      "id": 1,
+      "client_id": 3,
+      "movie_id": 2,
+      "rented_date": "2019-05-23",
+      "due_date": "2019-10-23",
+      "return_date": "2019-09-11"
+    },
+    {
+      "id": 2,
+      "client_id": 5,
+      "movie_id": 1,
+      "rented_date": "2019-08-10",
+      "due_date": "2019-11-10",
+      "return_date": "2000-01-01"
+    }
+  ]
+}

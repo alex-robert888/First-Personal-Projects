@@ -1,0 +1,22 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "The Godfather",
+      "description": "Masterpiece illustrating what gangsters look like",
+      "genre": "crime"
+    },
+    {
+      "id": 2,
+      "title": "Joker",
+      "description": "The origins of a renowned villain",
+      "genre": "drama"
+    },
+    {
+      "id": 3,
+      "title": "Once Upon a Time In Hollywood",
+      "description": "The end of an era in Hollywood cinematography",
+      "genre": "drama"
+    }
+  ]
+}
